@@ -1,0 +1,279 @@
+/*
+Theme Name: Simplenotes
+Description: Simplenotes is a sophisticated and simple Wordpress theme that requires no plugins. It is search-engine-optimized, gravater-supported, widget-ready, multi-browser-compatible. (Firefox, IE, and Google Chrome.) Full-width page, post pagination, threaded/paginated comments, comments reply function, smooth scrolling, multi-level drop down menu, custom menu, are integrated. Designed minimum but functional for both writers and readers, the notebook is ready for you. 
+Version: 3.9.1
+Tags: black, white, light, one-column, two-columns, right-sidebar, full-width-template, threaded-comments
+Author: Carla Izumi Bamford
+Author URI: http://carla-izumi-bamford.com
+License: GNU General Public License, v3 (or newer)
+License URI: http://www.opensource.org/licenses/gpl-3.0.html
+*/
+@import url(css/common.css);
+@import url(css/class.css);
+@import url(css/navigation.css);
+
+
+
+.controls
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+}
+
+.table 
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle;
+}
+
+.nostyle 
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+}
+
+.time 
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	display : table-cell;
+	background-color:lightGrey;
+}
+
+.module
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+}
+
+.spiffyfg1
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+	color:#FF6600;
+	cursor:pointer;
+} 
+
+.spiffyfg2
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+	color:#33CC00;
+	cursor:pointer;
+} 
+
+.spiffyfg3
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+	color:#990099;
+	cursor:pointer;
+} 
+
+.spiffyfg4
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+	color:#330099;
+	cursor:pointer;
+} 
+
+.spiffyfg5
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+	color:#0066FF;
+	cursor:pointer;
+} 
+
+.spiffyfg6
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+	color:#FFFF66;
+	cursor:pointer;
+}
+
+.controlName1
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	color:#FF6600;
+	cursor:pointer;
+} 
+
+.controlName2
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	color:#33CC00;
+	cursor:pointer;
+} 
+
+.controlName3
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	color:#990099;
+	cursor:pointer;
+} 
+
+.controlName4
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	color:#330099;
+	cursor:pointer;
+} 
+
+.controlName5
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle;
+	color:#0066FF;
+	cursor:pointer;
+} 
+
+.controlName6
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	color:#FFFF66;
+	cursor:pointer;
+}
+
+.module1
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+} 
+
+.module2
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle;
+	margin:0px;
+	padding:0px;
+} 
+
+.module3
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	display : table-cell;
+	margin:0px;
+	padding:0px
+} 
+
+.module4
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+} 
+
+.module5
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+} 
+
+.module6
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	margin:0px;
+	padding:0px;
+}
+
+.control1
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+} 
+
+.control2
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+} 
+
+.control3
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+} 
+
+.control4
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+} 
+
+.control5
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+} 
+
+.control6 
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+}
+
+.spiffyOtherfg
+{
+	font-size: 8pt;
+	line-height: 10pt;
+	vertical-align : middle; 
+	cursor:pointer;
+}
