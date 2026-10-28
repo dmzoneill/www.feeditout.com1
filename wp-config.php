@@ -1,5 +1,7 @@
 <?php
 
+// phpcs:disable PSR1.Files.SideEffects -- WordPress config bootstraps WordPress by design.
+
 /**
  * The base configurations of the WordPress.
  *
@@ -63,7 +65,8 @@ define('NONCE_SALT', 'put your unique phrase here');
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-/** @psalm-suppress UnusedVariable */
+/** @psalm-suppress InvalidGlobal */
+global $table_prefix;
 $table_prefix  = 'wpfio_';
 
 /**
