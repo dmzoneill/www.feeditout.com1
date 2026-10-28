@@ -23,7 +23,7 @@ define('DB_NAME', 'fiowordpress');
 define('DB_USER', 'books');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'your_db_password_here');
 
 /** MySQL hostname */
 define('DB_HOST', 'mysql.feeditout.com');
@@ -43,14 +43,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'NU}Vg<frHt^=kA[2%1&%(ui&?1CdeYHq|04$2Wz1r-a4 bhOJ+I)7ZYb b0L[nfM');
-define('SECURE_AUTH_KEY',  '//+-hOO%!]!`+|YtDiC;MrV=6%?,[X%Dj{vVFgH}E7;dT}M`ChdbYVT1`|H  fg@');
-define('LOGGED_IN_KEY',    '+e$.9h0=|P4F {DLNa>0iq6x$lmwojR@xm8+MV%)>`sAQ<vBK. 26P[JUyU|oRy^');
-define('NONCE_KEY',        '<~e |-a YMx.|?YwjryR-=jdB@E4.aKq]02lRRKN%og1%%^`QuA;~b=[Xd;L!U/I');
-define('AUTH_SALT',        '1L|lAx3&DoM*~-/%YYQs#M/%cR8d.$/*M.mO/Mxt,eS-Dj-SEd& Tve` .b0Aw6J');
-define('SECURE_AUTH_SALT', 'S*8vE2n{/):s+AHWvQ}f=xC5OxJd Kg|b*Y r|z`oYj0${1Z%FV=6[<qqfq.dgJ!');
-define('LOGGED_IN_SALT',   'wW>|Q,6El%}R$nZ*#)Js~~ 1`g=o_tOA,K]g=A<OP~#Zn/r4H:-9[xvqf70qzDxy');
-define('NONCE_SALT',       'rwwC!]u|I?(E(XdLBS.Hhv7afXA%qJg16O-A2@CwGvdiFMzxA%xOVncn{XXh-gi@');
+define('AUTH_KEY',         'put your unique phrase here');
+define('SECURE_AUTH_KEY',  'put your unique phrase here');
+define('LOGGED_IN_KEY',    'put your unique phrase here');
+define('NONCE_KEY',        'put your unique phrase here');
+define('AUTH_SALT',        'put your unique phrase here');
+define('SECURE_AUTH_SALT', 'put your unique phrase here');
+define('LOGGED_IN_SALT',   'put your unique phrase here');
+define('NONCE_SALT',       'put your unique phrase here');
 
 /**#@-*/
 
